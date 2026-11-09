@@ -1,5 +1,6 @@
-🌿 Analyse de performance et optimisation de la rentabilité – Entreprise de paysagisme
-Présentation
+# 🌿 Analyse de performance et optimisation de la rentabilité – Entreprise de paysagisme
+
+## Présentation
 
 Ce projet consiste à analyser la performance économique et opérationnelle d'une entreprise de jardinage située en Île-de-France.
 
@@ -7,7 +8,7 @@ Réalisé dans le cadre d'une mission freelance, il s'appuie sur environ 900 int
 
 L'objectif est d'identifier les leviers de rentabilité, d'analyser les performances commerciales et opérationnelles et de formuler des recommandations concrètes d'optimisation.
 
-Objectif métier
+## Objectif métier
 
 L'analyse vise à comprendre les facteurs qui influencent la rentabilité de l'entreprise :
 
