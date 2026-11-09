@@ -74,10 +74,10 @@ Une étude quantitative combinant analyse descriptive, inférence statistique et
 
 ![Vue d'ensemble](images/vue_ensemble.png)
 
-### 2. Analyse géographique
+### 2. Analyses de performances
 
-![Analyse géographique](images/analyse.png)
+![Analyses](images/analyse.png)
 
-### 3. Analyse des facteurs de risque
+### 3. Saisonnalités et optimisation
 
-![Analyse des facteurs de risque](images/optimisation.png)
+![optimisation](images/optimisation.png)
